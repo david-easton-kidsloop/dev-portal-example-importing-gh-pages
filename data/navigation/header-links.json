@@ -1,0 +1,9 @@
+{
+    "routes": [
+        { "title": "Products", "path": "/marketing/example1" },
+        { "title": "Use Cases", "path": "/marketing/example2" },
+        { "title": "Developers", "path": "/marketing/example3" },
+        { "title": "Company", "path": "/marketing/example4" },
+        { "title": "Pricing", "path": "/marketing/example5" }
+    ]
+}
